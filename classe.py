@@ -1,3 +1,5 @@
 class test():
-    def __init():
-        print("lol")
+    def __init(self):
+        self.name="bob"
+        self.age=12
+        
