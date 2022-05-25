@@ -1,7 +1,4 @@
-print("hello git")
-test()
-
 allo="dsfdf"
 var="test"
-
+print("loooooo")
 print("joli script")
