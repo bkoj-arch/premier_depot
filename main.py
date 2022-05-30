@@ -3,6 +3,8 @@ eeeeeeeeeeee
 ffff
 fff
 rrrr
+ggg
+>>>>>>> 6-dd
 eeeeeeeeeeee
 eeeeeeeeeeee
 eeeeeeeeeeeee
